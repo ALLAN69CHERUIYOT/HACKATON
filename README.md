@@ -11,3 +11,5 @@ including** SQL queries, Python scripts, visualizations, and a Power BI dashboar
 
 
 ###
+
+<img width="944" alt="correlation between age and total price" src="https://github.com/user-attachments/assets/bbf959a3-399d-4b9b-a825-cf6bc61bc4af" />
